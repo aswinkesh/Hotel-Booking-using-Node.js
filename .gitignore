@@ -1,0 +1,1 @@
+config.gmail.env; //this will not show up in the git repository,this file contains the gmail credentials like username and password
