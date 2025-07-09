@@ -1,2 +1,2 @@
-config.gmail.env; //this will not show up in the git repository,this file contains the gmail credentials like username and password
-firebase.json; //this will not show up in the git repository, this file contains the firebase configuration 
+controllers/config.gmail.env
+controllers/firebase.json
